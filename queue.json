@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-10-04T03:49:35.443396+00:00",
+  "count": 3,
+  "errors": [],
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "https://www.paypal-transactions.sbs/shop/checkout.html",
+      "host": "www.paypal-transactions.sbs",
+      "why": "brand lure: paypal",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://microsoftword.programgridsoft.com/?yclid=10483237800588345343",
+      "host": "microsoftword.programgridsoft.com",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "http://www.paypal-transactions.sbs/",
+      "host": "www.paypal-transactions.sbs",
+      "why": "brand lure: paypal",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
+}
