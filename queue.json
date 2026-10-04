@@ -1,23 +1,6 @@
 {
-  "generated_at": "2026-10-04T15:28:46.253192+00:00",
-  "count": 2,
+  "generated_at": "2026-10-04T18:45:31.288975+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "http://www.paypal-password.blogspot.com/",
-      "host": "www.paypal-password.blogspot.com",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://paypal-password.blogspot.com/",
-      "host": "paypal-password.blogspot.com",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
