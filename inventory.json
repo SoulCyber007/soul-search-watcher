@@ -1,0 +1,19 @@
+{
+  "_note": "STARTER GUESS - replace with what member orgs actually run. Short, plain product names. Remove anything not relevant.",
+  "products": [
+    {"name": "WordPress", "aliases": ["wordpress", "woocommerce", "elementor"]},
+    {"name": "Microsoft 365", "aliases": ["microsoft 365", "office 365", "outlook", "sharepoint", "onedrive", "teams"]},
+    {"name": "Google Workspace", "aliases": ["google workspace", "gmail", "google drive"]},
+    {"name": "Zoom", "aliases": ["zoom"]},
+    {"name": "QuickBooks", "aliases": ["quickbooks"]},
+    {"name": "Mailchimp", "aliases": ["mailchimp"]},
+    {"name": "Salesforce", "aliases": ["salesforce"]},
+    {"name": "Planning Center", "aliases": ["planning center"]},
+    {"name": "Ubiquiti UniFi", "aliases": ["unifi", "ubiquiti"]},
+    {"name": "Cisco Meraki", "aliases": ["meraki"]},
+    {"name": "TP-Link routers", "aliases": ["tp-link"]},
+    {"name": "Hikvision/Dahua cameras", "aliases": ["hikvision", "dahua"]}
+  ],
+  "brands": ["Microsoft", "Google", "Zoom", "QuickBooks", "Mailchimp", "Planning Center", "DocuSign", "PayPal", "Venmo", "Zelle", "Cash App"],
+  "domains": []
+}
