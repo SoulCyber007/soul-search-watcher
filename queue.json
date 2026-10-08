@@ -1,23 +1,6 @@
 {
-  "generated_at": "2026-10-08T14:48:46.675216+00:00",
-  "count": 2,
+  "generated_at": "2026-10-08T20:35:26.877540+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "http://www.paypal-signin.blogspot.com/",
-      "host": "www.paypal-signin.blogspot.com",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://paypal-signin.blogspot.com/",
-      "host": "paypal-signin.blogspot.com",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
