@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-09T07:52:21.736494+00:00",
-  "count": 0,
+  "generated_at": "2026-10-09T15:07:28.532416+00:00",
+  "count": 1,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "http://paypall-login.blogspot.com/",
+      "host": "paypall-login.blogspot.com",
+      "why": "brand lure: paypal",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
