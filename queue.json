@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-09T20:15:57.330412+00:00",
-  "count": 0,
+  "generated_at": "2026-10-10T00:14:59.387549+00:00",
+  "count": 3,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "advisory",
+      "id": "GHSA-39p5-2wrr-xh29",
+      "cve": "CVE-2026-91980",
+      "severity": "medium",
+      "title": "Vikunja: Any user can enumerate every team and its members by attaching arbitrary teams to a throwaway project",
+      "matched": [
+        "Microsoft 365"
+      ],
+      "url": "https://github.com/advisories/GHSA-39p5-2wrr-xh29",
+      "published": "2026-10-09T20:52:27Z",
+      "origin": "GitHub Advisory Database",
+      "origin_type": "private-sector",
+      "epss": 0.0031
+    },
+    {
+      "kind": "advisory",
+      "id": "GHSA-2922-qgfj-pr7v",
+      "cve": null,
+      "severity": "medium",
+      "title": "Duplicate Advisory: Vikunja: Any user can enumerate every team and its members by attaching arbitrary teams to a throwaway project",
+      "matched": [
+        "Microsoft 365"
+      ],
+      "url": "https://github.com/advisories/GHSA-2922-qgfj-pr7v",
+      "published": "2026-09-15T18:32:30Z",
+      "origin": "GitHub Advisory Database",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "http://www.paypall-login.blogspot.com/",
+      "host": "www.paypall-login.blogspot.com",
+      "why": "brand lure: paypal",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
