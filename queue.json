@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-11T22:19:57.605033+00:00",
-  "count": 0,
+  "generated_at": "2026-10-12T01:36:55.189944+00:00",
+  "count": 1,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "http://microsoft.marchesi.mx/",
+      "host": "microsoft.marchesi.mx",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
