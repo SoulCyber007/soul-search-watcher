@@ -1,23 +1,6 @@
 {
-  "generated_at": "2026-10-13T01:10:35.997459+00:00",
-  "count": 2,
+  "generated_at": "2026-10-13T08:16:02.888751+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "http://connectezvousamicrosoftoutlook.weebly.com/",
-      "host": "connectezvousamicrosoftoutlook.weebly.com",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://documentsfile-fileshared-securesso-xlsfile.myshare-securedocusign-ouathfile.workers.dev/",
-      "host": "documentsfile-fileshared-securesso-xlsfile.myshare-securedocusign-ouathfile.workers.dev",
-      "why": "brand lure: docusign",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
