@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-10-12T18:47:42.918822+00:00",
-  "count": 1,
+  "generated_at": "2026-10-13T01:10:35.997459+00:00",
+  "count": 2,
   "errors": [],
   "hits": [
     {
       "kind": "phish",
-      "url": "https://securepaypalcard.com/",
-      "host": "securepaypalcard.com",
-      "why": "brand lure: paypal",
+      "url": "http://connectezvousamicrosoftoutlook.weebly.com/",
+      "host": "connectezvousamicrosoftoutlook.weebly.com",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://documentsfile-fileshared-securesso-xlsfile.myshare-securedocusign-ouathfile.workers.dev/",
+      "host": "documentsfile-fileshared-securesso-xlsfile.myshare-securedocusign-ouathfile.workers.dev",
+      "why": "brand lure: docusign",
       "origin": "OpenPhish community feed",
       "origin_type": "private-sector"
     }
