@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-14T23:47:35.225492+00:00",
-  "count": 0,
+  "generated_at": "2026-10-15T03:59:14.794354+00:00",
+  "count": 1,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "https://click2.microsoftsupportcenter.digital/",
+      "host": "click2.microsoftsupportcenter.digital",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
