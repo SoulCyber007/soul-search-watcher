@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-15T22:01:19.285288+00:00",
-  "count": 0,
+  "generated_at": "2026-10-16T00:37:34.410295+00:00",
+  "count": 1,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "https://sites.google.com/view/orange-secu/accueil?clckid=091a9c56",
+      "host": "sites.google.com",
+      "why": "brand lure: google",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
