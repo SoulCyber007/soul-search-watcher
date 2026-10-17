@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-10-16T22:00:30.776830+00:00",
-  "count": 0,
+  "generated_at": "2026-10-17T00:42:01.391971+00:00",
+  "count": 3,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "http://emailverifybygoogle.netlify.app/",
+      "host": "emailverifybygoogle.netlify.app",
+      "why": "brand lure: google",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://owa-microsoft-share-com.jict.info/",
+      "host": "owa-microsoft-share-com.jict.info",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://owa-microsoft-share-com.jict.info/owamain/?email=Scoror@25ebcb9961dcfe81963b4567a199cb30745f.com",
+      "host": "owa-microsoft-share-com.jict.info",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
