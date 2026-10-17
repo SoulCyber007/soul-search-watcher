@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-17T13:32:09.205706+00:00",
-  "count": 1,
+  "generated_at": "2026-10-17T16:55:16.396778+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "http://test-test-google-test.netlify.app/",
-      "host": "test-test-google-test.netlify.app",
-      "why": "brand lure: google",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
