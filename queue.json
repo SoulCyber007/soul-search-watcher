@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-10-19T00:01:09.457714+00:00",
-  "count": 0,
+  "generated_at": "2026-10-19T05:07:38.036223+00:00",
+  "count": 2,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "https://microsoftword.programgridsoft.com/?yclid=13348494483925499903",
+      "host": "microsoftword.programgridsoft.com",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://signer.docusign.maccesshub.com/2d8bef1b-e939-49cd-8b59-cdbe9be72a90/",
+      "host": "signer.docusign.maccesshub.com",
+      "why": "brand lure: docusign",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
