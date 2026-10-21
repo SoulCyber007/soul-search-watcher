@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-10-21T07:19:14.849938+00:00",
-  "count": 0,
+  "generated_at": "2026-10-21T13:06:48.050881+00:00",
+  "count": 2,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "http://sites.google.com/view/sinico-trustline-service-srl/home/",
+      "host": "sites.google.com",
+      "why": "brand lure: google",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "http://sites.google.com/view/instagram-facebook-meta-2026/",
+      "host": "sites.google.com",
+      "why": "brand lure: google",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
