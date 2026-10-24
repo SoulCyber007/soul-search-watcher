@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-24T13:30:57.365154+00:00",
-  "count": 1,
+  "generated_at": "2026-10-24T17:16:30.646396+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "http://sites.google.com/view/coin-extension-home/home",
-      "host": "sites.google.com",
-      "why": "brand lure: google",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
