@@ -1,47 +1,6 @@
 {
-  "generated_at": "2026-10-24T04:22:25.576196+00:00",
-  "count": 5,
+  "generated_at": "2026-10-24T09:02:22.325430+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "https://www.grn-microsoft-outlook.vercel.app/",
-      "host": "www.grn-microsoft-outlook.vercel.app",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://grn-microsoft-outlook.vercel.app/",
-      "host": "grn-microsoft-outlook.vercel.app",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://sc-paypal.vercel.app/",
-      "host": "sc-paypal.vercel.app",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://sc-paypal.vercel.app/signin",
-      "host": "sc-paypal.vercel.app",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://www.sc-paypal.vercel.app/",
-      "host": "www.sc-paypal.vercel.app",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
