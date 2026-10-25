@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-25T14:31:08.525018+00:00",
-  "count": 1,
+  "generated_at": "2026-10-25T18:16:05.356503+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "https://www.microsoftconfig-3.vercel.app/",
-      "host": "www.microsoftconfig-3.vercel.app",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
