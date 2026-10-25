@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-10-24T22:19:15.014334+00:00",
-  "count": 0,
+  "generated_at": "2026-10-25T00:27:44.307856+00:00",
+  "count": 2,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "https://microsoftconfig-3.vercel.app/",
+      "host": "microsoftconfig-3.vercel.app",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://verify-google-app.netlify.app/",
+      "host": "verify-google-app.netlify.app",
+      "why": "brand lure: google",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
