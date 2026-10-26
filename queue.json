@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-26T15:00:09.780220+00:00",
-  "count": 1,
+  "generated_at": "2026-10-26T20:26:03.724188+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "https://microsoftt-beta.vercel.app/",
-      "host": "microsoftt-beta.vercel.app",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
