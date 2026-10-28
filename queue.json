@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-10-28T06:07:06.292493+00:00",
-  "count": 0,
+  "generated_at": "2026-10-28T13:24:54.343374+00:00",
+  "count": 5,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "https://capgemini.m365-microsoft.com/page/e3c37c2ab9ad4aa0986ad2833d260b76/de17af985e5f34c2085d7eed79fd87fcd",
+      "host": "capgemini.m365-microsoft.com",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://capgemini.m365-microsoft.com/i/de17af985e5f34c2085d7eed79fd87fcd",
+      "host": "capgemini.m365-microsoft.com",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://capgemini.m365-microsoft.com/home/daaa8a144d524f76be39aebd5124498e/df32a06034ca0429c8bbf7aea618d990e",
+      "host": "capgemini.m365-microsoft.com",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://capgemini.m365-microsoft.com/i/df32a06034ca0429c8bbf7aea618d990e",
+      "host": "capgemini.m365-microsoft.com",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://docusignauth-web-signin.fly.dev/?error=interaction_required&error_description=Session+information+is+not+sufficient+for+single-sign-on.&state=Y2xlbWVudGNob29uZ0BkYnMuY29t",
+      "host": "docusignauth-web-signin.fly.dev",
+      "why": "brand lure: docusign",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
