@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-10-29T09:40:21.013776+00:00",
-  "count": 0,
+  "generated_at": "2026-10-29T16:46:01.364643+00:00",
+  "count": 3,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "http://sharepointonline-microsoft.com/?normal=l8AhRCc",
+      "host": "sharepointonline-microsoft.com",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "http://mail-googleaccounts-verification.uw.ua/",
+      "host": "mail-googleaccounts-verification.uw.ua",
+      "why": "brand lure: google",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://microsoftoutlook.flazio.online/",
+      "host": "microsoftoutlook.flazio.online",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
