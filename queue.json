@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-29T21:41:05.747278+00:00",
-  "count": 0,
+  "generated_at": "2026-10-30T01:45:06.321449+00:00",
+  "count": 1,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "http://www.microsoftoutlook.flazio.online/",
+      "host": "www.microsoftoutlook.flazio.online",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
