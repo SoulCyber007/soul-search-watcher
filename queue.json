@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-30T23:58:09.891924+00:00",
-  "count": 0,
+  "generated_at": "2026-10-31T05:21:39.071545+00:00",
+  "count": 1,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "https://edocusign.cepoffices.com/",
+      "host": "edocusign.cepoffices.com",
+      "why": "brand lure: docusign",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
