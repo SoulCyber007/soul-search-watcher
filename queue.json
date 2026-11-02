@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-02T01:22:30.700649+00:00",
-  "count": 1,
+  "generated_at": "2026-11-02T08:04:18.273079+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "http://google-verify-portal.com/",
-      "host": "google-verify-portal.com",
-      "why": "brand lure: google",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
