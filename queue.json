@@ -1,15 +1,22 @@
 {
-  "generated_at": "2026-11-03T16:54:20.170569+00:00",
+  "generated_at": "2026-11-03T22:14:12.166964+00:00",
   "count": 1,
   "errors": [],
   "hits": [
     {
-      "kind": "phish",
-      "url": "https://microsoftt7.vercel.app/",
-      "host": "microsoftt7.vercel.app",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
+      "kind": "advisory",
+      "id": "kev-cve-2026-119977",
+      "cve": "CVE-2026-119977",
+      "severity": "exploited-in-the-wild",
+      "title": "WordPress WordPress Core: WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+      "matched": [
+        "WordPress"
+      ],
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977",
+      "published": "2026-11-03",
+      "origin": "CISA Known Exploited Vulnerabilities catalog",
+      "origin_type": "federal",
+      "epss": 0.006
     }
   ]
 }
