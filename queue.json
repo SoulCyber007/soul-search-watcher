@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-05T00:13:48.044139+00:00",
-  "count": 1,
+  "generated_at": "2026-11-05T07:12:53.258191+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "http://login-attempt.supportmicrosoft.nl/?rid=eu8PlJKFFMLrmJmm",
-      "host": "login-attempt.supportmicrosoft.nl",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
