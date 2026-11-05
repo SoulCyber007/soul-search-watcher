@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-11-05T07:12:53.258191+00:00",
-  "count": 0,
+  "generated_at": "2026-11-05T15:42:43.951270+00:00",
+  "count": 2,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "https://www.paypall-login.blogspot.com/",
+      "host": "www.paypall-login.blogspot.com",
+      "why": "brand lure: paypal",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://g5214-google.top/",
+      "host": "g5214-google.top",
+      "why": "brand lure: google",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
