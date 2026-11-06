@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-06T02:06:20.319748+00:00",
-  "count": 1,
+  "generated_at": "2026-11-06T09:43:26.700699+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "https://microsoftword.programgridsoft.com/?yclid=8425516442148929535",
-      "host": "microsoftword.programgridsoft.com",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
