@@ -1,31 +1,6 @@
 {
-  "generated_at": "2026-11-06T17:16:10.559119+00:00",
-  "count": 3,
+  "generated_at": "2026-11-06T22:16:09.321417+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "https://paypal-verify.vercel.app/auth/signin?callbackUrl=https%3A%2F%2Fpaypal-verify.vercel.app%2F",
-      "host": "paypal-verify.vercel.app",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://paypal-verify.vercel.app/",
-      "host": "paypal-verify.vercel.app",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://www.bedreaders-docusignatures.xyz/",
-      "host": "www.bedreaders-docusignatures.xyz",
-      "why": "brand lure: docusign",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
