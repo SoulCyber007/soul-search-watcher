@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-09T19:58:45.938454+00:00",
-  "count": 0,
+  "generated_at": "2026-11-10T02:39:28.337395+00:00",
+  "count": 1,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "https://paypal.kinoloza.de/",
+      "host": "paypal.kinoloza.de",
+      "why": "brand lure: paypal",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
