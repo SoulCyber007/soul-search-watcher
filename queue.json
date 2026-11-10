@@ -1,15 +1,21 @@
 {
-  "generated_at": "2026-11-10T18:31:09.689061+00:00",
+  "generated_at": "2026-11-10T23:56:54.830905+00:00",
   "count": 1,
   "errors": [],
   "hits": [
     {
-      "kind": "phish",
-      "url": "https://paypal.kinofino.de/",
-      "host": "paypal.kinofino.de",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
+      "kind": "advisory",
+      "id": "kev-cve-2026-124194",
+      "cve": "CVE-2026-124194",
+      "severity": "exploited-in-the-wild",
+      "title": "Microsoft Office: Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+      "matched": [
+        "Microsoft 365"
+      ],
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194",
+      "published": "2026-11-10",
+      "origin": "CISA Known Exploited Vulnerabilities catalog",
+      "origin_type": "federal"
     }
   ]
 }
