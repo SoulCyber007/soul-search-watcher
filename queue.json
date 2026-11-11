@@ -1,23 +1,6 @@
 {
-  "generated_at": "2026-11-11T05:54:57.068099+00:00",
-  "count": 2,
+  "generated_at": "2026-11-11T13:51:49.003680+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "http://www.wwwpaypallogin.blogspot.com/",
-      "host": "www.wwwpaypallogin.blogspot.com",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://wwwpaypallogin.blogspot.com/",
-      "host": "wwwpaypallogin.blogspot.com",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
