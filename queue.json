@@ -1,47 +1,6 @@
 {
-  "generated_at": "2026-11-12T02:24:58.629471+00:00",
-  "count": 5,
+  "generated_at": "2026-11-12T10:07:35.342854+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "https://microsoft-file-share-review.microsoft-document-m7373387.workers.dev/",
-      "host": "microsoft-file-share-review.microsoft-document-m7373387.workers.dev",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://appsdocusign-secured.com/send/documents/details/f56c8776746a4e3781e0c34ccff78e54",
-      "host": "appsdocusign-secured.com",
-      "why": "brand lure: docusign",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://login.microsoftonline.whitecarrot.app/",
-      "host": "login.microsoftonline.whitecarrot.app",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://appsdocusign-secured.com/",
-      "host": "appsdocusign-secured.com",
-      "why": "brand lure: docusign",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://www.paypalsecurity.online/",
-      "host": "www.paypalsecurity.online",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
