@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-12T10:07:35.342854+00:00",
-  "count": 0,
+  "generated_at": "2026-11-12T18:30:55.161098+00:00",
+  "count": 1,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "https://googleurlnew.vercel.app/",
+      "host": "googleurlnew.vercel.app",
+      "why": "brand lure: google",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
