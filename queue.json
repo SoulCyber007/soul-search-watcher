@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-14T08:46:47.215249+00:00",
-  "count": 0,
+  "generated_at": "2026-11-14T15:40:11.604785+00:00",
+  "count": 1,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "http://id-paypalservice.dev/",
+      "host": "id-paypalservice.dev",
+      "why": "brand lure: paypal",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
