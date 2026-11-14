@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-11-13T21:18:21.109968+00:00",
-  "count": 0,
+  "generated_at": "2026-11-14T01:38:17.283138+00:00",
+  "count": 2,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "http://updatepassword.id-paypalservice.dev/",
+      "host": "updatepassword.id-paypalservice.dev",
+      "why": "brand lure: paypal",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://passwordreset.id-paypal.us.com/",
+      "host": "passwordreset.id-paypal.us.com",
+      "why": "brand lure: paypal",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
