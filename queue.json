@@ -1,47 +1,6 @@
 {
-  "generated_at": "2026-11-19T01:23:06.939988+00:00",
-  "count": 5,
+  "generated_at": "2026-11-19T09:16:31.480313+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "http://login.microsoftonline.bamboohr.app/",
-      "host": "login.microsoftonline.bamboohr.app",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://auth0-google.com/",
-      "host": "auth0-google.com",
-      "why": "brand lure: google",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://auth0-google.com/2step.html",
-      "host": "auth0-google.com",
-      "why": "brand lure: google",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://api-google-docs.com/",
-      "host": "api-google-docs.com",
-      "why": "brand lure: google",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://app.docusign.sxcrn.com/",
-      "host": "app.docusign.sxcrn.com",
-      "why": "brand lure: docusign",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
