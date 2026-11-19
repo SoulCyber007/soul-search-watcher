@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-11-19T09:16:31.480313+00:00",
-  "count": 0,
+  "generated_at": "2026-11-19T18:32:18.363203+00:00",
+  "count": 3,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "http://www.jardinsdubandiat-onmicrosoft.click/verify/1890adde-bb37-462b-845f-9cdb8b4d912e/",
+      "host": "www.jardinsdubandiat-onmicrosoft.click",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://login.microsoftonline.bamboohr.app/Ai_Officer/?id=b308fc0da3bc49a9",
+      "host": "login.microsoftonline.bamboohr.app",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "http://googlesupportt.netlify.app/",
+      "host": "googlesupportt.netlify.app",
+      "why": "brand lure: google",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
