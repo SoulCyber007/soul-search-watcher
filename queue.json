@@ -1,29 +1,21 @@
 {
-  "generated_at": "2026-11-19T18:32:18.363203+00:00",
-  "count": 3,
+  "generated_at": "2026-11-20T01:06:24.318679+00:00",
+  "count": 2,
   "errors": [],
   "hits": [
     {
       "kind": "phish",
-      "url": "http://www.jardinsdubandiat-onmicrosoft.click/verify/1890adde-bb37-462b-845f-9cdb8b4d912e/",
-      "host": "www.jardinsdubandiat-onmicrosoft.click",
+      "url": "https://jardinsdubandiat-onmicrosoft.click/",
+      "host": "jardinsdubandiat-onmicrosoft.click",
       "why": "brand lure: microsoft",
       "origin": "OpenPhish community feed",
       "origin_type": "private-sector"
     },
     {
       "kind": "phish",
-      "url": "https://login.microsoftonline.bamboohr.app/Ai_Officer/?id=b308fc0da3bc49a9",
-      "host": "login.microsoftonline.bamboohr.app",
+      "url": "https://microsoftword.programgridsoft.com/?etext=2202.wWXITTFEB773NRe8uDHESAsv7_oqBBZTU48PwkhhpHpNJjbGx79xtNp_rZkz2gVDb2ZidWpyenN3c2NncXdwaQ.3332127f5dba4bf62abd7a400cb5da5464813df9&yclid=5286273443064709119",
+      "host": "microsoftword.programgridsoft.com",
       "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://googlesupportt.netlify.app/",
-      "host": "googlesupportt.netlify.app",
-      "why": "brand lure: google",
       "origin": "OpenPhish community feed",
       "origin_type": "private-sector"
     }
