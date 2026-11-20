@@ -1,23 +1,6 @@
 {
-  "generated_at": "2026-11-20T01:06:24.318679+00:00",
-  "count": 2,
+  "generated_at": "2026-11-20T08:59:05.177152+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "https://jardinsdubandiat-onmicrosoft.click/",
-      "host": "jardinsdubandiat-onmicrosoft.click",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://microsoftword.programgridsoft.com/?etext=2202.wWXITTFEB773NRe8uDHESAsv7_oqBBZTU48PwkhhpHpNJjbGx79xtNp_rZkz2gVDb2ZidWpyenN3c2NncXdwaQ.3332127f5dba4bf62abd7a400cb5da5464813df9&yclid=5286273443064709119",
-      "host": "microsoftword.programgridsoft.com",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
