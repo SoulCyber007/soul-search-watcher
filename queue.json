@@ -1,39 +1,6 @@
 {
-  "generated_at": "2026-11-21T14:53:12.766360+00:00",
-  "count": 4,
+  "generated_at": "2026-11-21T20:50:05.055387+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "http://www.extpaypalupdatenonqs.blogspot.com/",
-      "host": "www.extpaypalupdatenonqs.blogspot.com",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://extpaypalupdatenonqs.blogspot.com/",
-      "host": "extpaypalupdatenonqs.blogspot.com",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "https://googlerelayinbox.blogspot.com/",
-      "host": "googlerelayinbox.blogspot.com",
-      "why": "brand lure: google",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://www.googlerelayinbox.blogspot.com/",
-      "host": "www.googlerelayinbox.blogspot.com",
-      "why": "brand lure: google",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
