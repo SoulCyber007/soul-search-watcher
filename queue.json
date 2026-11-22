@@ -1,23 +1,6 @@
 {
-  "generated_at": "2026-11-22T01:04:01.675852+00:00",
-  "count": 2,
+  "generated_at": "2026-11-22T08:38:49.534315+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "https://accounts-google.wallet-veriffy.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1881196945:1795263788242563",
-      "host": "accounts-google.wallet-veriffy.com",
-      "why": "brand lure: google",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://accounts-google.wallet-veriffy.com/",
-      "host": "accounts-google.wallet-veriffy.com",
-      "why": "brand lure: google",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
