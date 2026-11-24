@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-11-23T12:14:53.281690+00:00",
-  "count": 2,
+  "generated_at": "2026-11-24T00:13:38.382208+00:00",
+  "count": 1,
   "errors": [],
   "hits": [
     {
       "kind": "phish",
-      "url": "http://microsoftsignin.azurewebsites.net/",
-      "host": "microsoftsignin.azurewebsites.net",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://security-awareness.microsoft365.studio/",
-      "host": "security-awareness.microsoft365.studio",
-      "why": "brand lure: microsoft",
+      "url": "http://verify-google-app.netlify.app/",
+      "host": "verify-google-app.netlify.app",
+      "why": "brand lure: google",
       "origin": "OpenPhish community feed",
       "origin_type": "private-sector"
     }
