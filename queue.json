@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-11-25T04:01:24.964703+00:00",
-  "count": 0,
+  "generated_at": "2026-11-25T14:49:44.654837+00:00",
+  "count": 4,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "https://accounts-google.playerportalhub.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2033414886:1795600451570854",
+      "host": "accounts-google.playerportalhub.com",
+      "why": "brand lure: google",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "http://accounts-google.playerportalhub.com/",
+      "host": "accounts-google.playerportalhub.com",
+      "why": "brand lure: google",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "https://microsoft.pedrolllogroup.com/",
+      "host": "microsoft.pedrolllogroup.com",
+      "why": "brand lure: microsoft",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    },
+    {
+      "kind": "phish",
+      "url": "http://viewrfqdocusignview920048889944884.bolt.host/",
+      "host": "viewrfqdocusignview920048889944884.bolt.host",
+      "why": "brand lure: docusign",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
