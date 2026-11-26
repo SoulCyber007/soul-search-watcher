@@ -1,61 +1,13 @@
 {
-  "generated_at": "2026-11-26T07:39:41.052502+00:00",
-  "count": 7,
+  "generated_at": "2026-11-26T18:15:44.078621+00:00",
+  "count": 1,
   "errors": [],
   "hits": [
     {
       "kind": "phish",
-      "url": "http://microsoftwordob.blogspot.com/",
-      "host": "microsoftwordob.blogspot.com",
+      "url": "https://myprofile-microsoft.com/?rid=CgUEQLK",
+      "host": "myprofile-microsoft.com",
       "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://microsoft0117.vercel.app/",
-      "host": "microsoft0117.vercel.app",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://login-east3.cashappps.com/ca/",
-      "host": "login-east3.cashappps.com",
-      "why": "brand lure: cashapp",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://paypalcorp.blogspot.com/",
-      "host": "paypalcorp.blogspot.com",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://cashapp-liart.vercel.app/",
-      "host": "cashapp-liart.vercel.app",
-      "why": "brand lure: cashapp",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://paypal-verify.vercel.app/auth/signin/",
-      "host": "paypal-verify.vercel.app",
-      "why": "brand lure: paypal",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    },
-    {
-      "kind": "phish",
-      "url": "http://googlel0gin.netlify.app/",
-      "host": "googlel0gin.netlify.app",
-      "why": "brand lure: google",
       "origin": "OpenPhish community feed",
       "origin_type": "private-sector"
     }
