@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-26T18:15:44.078621+00:00",
-  "count": 1,
+  "generated_at": "2026-11-27T01:52:42.729871+00:00",
+  "count": 0,
   "errors": [],
-  "hits": [
-    {
-      "kind": "phish",
-      "url": "https://myprofile-microsoft.com/?rid=CgUEQLK",
-      "host": "myprofile-microsoft.com",
-      "why": "brand lure: microsoft",
-      "origin": "OpenPhish community feed",
-      "origin_type": "private-sector"
-    }
-  ]
+  "hits": []
 }
