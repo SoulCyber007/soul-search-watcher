@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-27T10:40:30.372202+00:00",
-  "count": 0,
+  "generated_at": "2026-11-27T19:50:57.643618+00:00",
+  "count": 1,
   "errors": [],
-  "hits": []
+  "hits": [
+    {
+      "kind": "phish",
+      "url": "http://paypal.com.yunjin-tec.com/",
+      "host": "paypal.com.yunjin-tec.com",
+      "why": "brand lure: paypal",
+      "origin": "OpenPhish community feed",
+      "origin_type": "private-sector"
+    }
+  ]
 }
